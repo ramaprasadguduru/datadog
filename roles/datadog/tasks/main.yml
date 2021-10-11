@@ -1,0 +1,4 @@
+- name: import datadog common role
+  include_role:
+    name: common
+    tasks_from: datadog
