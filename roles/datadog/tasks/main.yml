@@ -1,4 +1,4 @@
-- name: To update
+- name: To update cache
   apt:
     update_cache: yes
 
